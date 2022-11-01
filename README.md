@@ -12,9 +12,7 @@
 <img src="https://profile-counter.glitch.me/Changbaiqi/count.svg" />
 
 # 长白崎的学习计划
----
 ## 个人技术栈学习进度
----
 ### 后端
 * Java语言基础
 * MySQL基础
