@@ -11,7 +11,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:2084069833@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2084069833@qq.com-blue?style=flat-square&logo=gmail"></a>
-
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 ### 🛳 &nbsp;Your ticket ID for this visit
 
 <img src="https://profile-counter.glitch.me/Changbaiqi/count.svg" />
