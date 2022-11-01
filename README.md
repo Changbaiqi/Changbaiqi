@@ -7,15 +7,18 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&count_private=true&show_icons=true" /><span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Changbaiqi&layout=compact&langs_count=8" />
 <span>  </span>
+
+ <div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Changbaiqi" />
+</div>
+    
 </div>
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Changbaiqi&theme=minimal" />
 </div>
 
 ## Continuous punching
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Changbaiqi" />
-</div>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
