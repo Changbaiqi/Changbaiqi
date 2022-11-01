@@ -12,6 +12,7 @@
 * SpringMVC基础
 * SpringBoot基础
 * Redis基础
+* Java并发编程
 * SpringCloud基础
 * Eureka基础
 * Nacos基础
