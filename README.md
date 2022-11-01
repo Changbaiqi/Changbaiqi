@@ -3,6 +3,11 @@
 ## ⭐️ &nbsp;Github Star
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&count_private=true&show_icons=true"/>
 
+## Continuous punching
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+</div>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:2084069833@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2084069833@qq.com-blue?style=flat-square&logo=gmail"></a>
