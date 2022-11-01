@@ -1,12 +1,15 @@
 ### Hi，I am Changbaiqi👋
 ### A Web full stack development engineer from China.
-## ⭐️ &nbsp;Github Star
+## ⭐️ &nbsp;Statistics
 <!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&count_private=true&show_icons=true"/> -->
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&count_private=true&show_icons=true" /><span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Changbaiqi&layout=compact&langs_count=8" />
 <span>  </span>
+</div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Changbaiqi&theme=minimal" />
 </div>
 
 ## Continuous punching
