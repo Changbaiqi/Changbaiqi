@@ -16,6 +16,7 @@
 * SpringCloud基础
 * Eureka基础
 * Nacos基础
+* WebSocket
 
 ### 前端
 #### Web端
@@ -26,6 +27,8 @@
 * Ajax基础
 * Vue基础
 * Vue-cli脚手架使用
+* WebRTC
+* 基于WebSocket和WebRTC的P2P视屏通话
 
 #### Android端
 * Android原生Java编程基础
