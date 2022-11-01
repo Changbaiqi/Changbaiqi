@@ -44,6 +44,11 @@
 * Sql注入
 * 爬虫基础
 
+## 游戏(只是出于开始对这个感兴趣所以学了点，不推荐将游戏这栏作为学习路线，我并不专业)
+* C#语言
+* Unity游戏引擎
+* Blender建模
+
 <!--
 **Changbaiqi/Changbaiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
