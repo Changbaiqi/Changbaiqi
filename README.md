@@ -1,4 +1,16 @@
 ### Hi there 👋
+
+### ⭐️ &nbsp;Github Star
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&count_private=true&show_icons=true"/>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<a href="mailto:2084069833@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2084069833@qq.com-blue?style=flat-square&logo=gmail"></a>
+
+### 🛳 &nbsp;Your ticket ID for this visit
+
+<img src="https://profile-counter.glitch.me/Changbaiqi/count.svg" />
+
 # 长白崎的学习计划
 ---
 ## 个人技术栈学习进度
