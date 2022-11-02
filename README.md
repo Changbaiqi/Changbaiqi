@@ -38,12 +38,14 @@
 * Spring基础
 * SpringMVC基础
 * SpringBoot基础
+* Linux常用指令学习
 * Redis基础
 * Java并发编程
 * SpringCloud基础
 * Eureka基础
 * zipkin链路追踪
 * Nacos基础
+* Docker容器化部署
 * WebSocket
 
 ### 前端
