@@ -42,6 +42,7 @@
 * Java并发编程
 * SpringCloud基础
 * Eureka基础
+* zipkin链路追踪
 * Nacos基础
 * WebSocket
 
