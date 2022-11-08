@@ -55,6 +55,8 @@
 * JavaScript基础
 * Jquery基础
 * Ajax基础
+* ES6
+* WebPage
 * Vue基础
 * Vue-cli脚手架使用
 * WebRTC
