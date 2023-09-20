@@ -45,6 +45,7 @@
 * Eureka基础
 * zipkin链路追踪
 * Nacos基础
+* SpringSecurity基础
 * Docker容器化部署
 * WebSocket
 
