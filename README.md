@@ -22,7 +22,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="mailto:changbaiqi@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2084069833@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:changbaiqi@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-changbaiqi@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 
