@@ -15,10 +15,12 @@
 <img src="https://profile-counter.glitch.me/Changbaiqi/count.svg" />
 
 ## 📈 &nbsp;Statistics
+
 <!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&count_private=true&show_icons=true"/> -->
 
 
 
+<div align="center">
 <picture>
 <source 
   srcset="https://github-widgetbox.vercel.app/api/profile?username=Changbaiqi&theme=darkmode&data=followers,repositories,stars,commits"
@@ -30,6 +32,8 @@
 />
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Changbaiqi&theme=darkmode&data=followers,repositories,stars,commits" width="70%" /> 
 </picture>
+</div>
+
 
 
 
@@ -58,7 +62,9 @@
 />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh" alt="✨ ForteScarlet's streak ✨" height="135em"  />
 </picture>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Changbaiqi&layout=pie&hide=HTML,CSS"/>    
+</div>
 
 
 
