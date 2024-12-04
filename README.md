@@ -1,6 +1,6 @@
 ### Hi，I am Changbaiqi👋
 ### A Web full stack development engineer from China.
-
+### Current status: Undergraduate student
 ## Continuous punching
 
 
@@ -8,7 +8,7 @@
 
 <a href="mailto:changbaiqi@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-changbaiqi@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 
-我的bilibili: https://space.bilibili.com/36987520  <a href="https://space.bilibili.com/36987520">  <img src="https://img.shields.io/badge/长白崎-FFFFFF?style=for-the-badge&logo=Bilibili" />
+My bilibili: https://space.bilibili.com/36987520  <a href="https://space.bilibili.com/36987520">  <img src="https://img.shields.io/badge/长白崎-FFFFFF?style=for-the-badge&logo=Bilibili" />
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 
