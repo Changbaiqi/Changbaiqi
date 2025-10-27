@@ -1,7 +1,5 @@
 ### Hi，I am Changbaiqi👋
 ### A Web full stack development engineer from China.
-### Current status: Undergraduate student
-## Continuous punching
 
 
 ### 🤝🏻 &nbsp;Connect with Me
