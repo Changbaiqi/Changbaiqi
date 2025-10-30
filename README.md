@@ -55,7 +55,7 @@
 
 ### 🚀 开源项目
 
-#### 🧠 [Yatori课程助手](https://github.com/Changbaiqi/YatoriCourseHelper)
+#### 🧠 [Yatori课程助手](https://github.com/yatori-dev)
 > 🎓 面向大学生网课平台的智能自动化助手（开源项目，Star 250+）
 
 - 使用 **Frida** 逆向多个混淆加密接口  
