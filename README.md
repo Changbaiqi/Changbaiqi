@@ -1,175 +1,98 @@
-### Hi，I am Changbaiqi👋
-### A Web full stack development engineer from China.
+<!-- 你的 GitHub 主页 README.md -->
 
+<h1 align="center">👋 你好，我是 Changbaiqi</h1>
+<h3 align="center">一名热爱技术的全栈开发者 · Java / Go / Flutter / Vue</h3>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<a href="mailto:changbaiqi@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-changbaiqi@foxmail.com-blue?style=flat-square&logo=gmail"></a>
-
-My bilibili: https://space.bilibili.com/36987520  <a href="https://space.bilibili.com/36987520">  <img src="https://img.shields.io/badge/长白崎-FFFFFF?style=for-the-badge&logo=Bilibili" />
-
-### 🛳 &nbsp;Your ticket ID for this visit
-
-<img src="https://profile-counter.glitch.me/Changbaiqi/count.svg" />
-
-## 📈 &nbsp;Statistics
-
-<!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&count_private=true&show_icons=true"/> -->
-
-
-
-<div align="center">
-<picture>
-<source 
-  srcset="https://github-widgetbox.vercel.app/api/profile?username=Changbaiqi&theme=darkmode&data=followers,repositories,stars,commits"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-widgetbox.vercel.app/api/profile?username=Changbaiqi&data=followers,repositories,stars,commits"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Changbaiqi&theme=darkmode&data=followers,repositories,stars,commits" width="70%" /> 
-</picture>
-</div>
-
-
-
-
-<div align="center">
-<span>  </span>
-    <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Changbaiqi&show_icons=true&theme=tokyonight&hide_border=true&locale=cn"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Changbaiqi&show_icons=true&hide_border=true&locale=cn"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ Changbaiqi's stars ✨" height="135em"  />
-</picture>
-<span>  </span>
-    <picture>
-<source 
-  srcset="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&hide_border=true&border_radius=3.5&locale=zh"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh" alt="✨ ForteScarlet's streak ✨" height="135em"  />
-</picture>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Changbaiqi&layout=pie&hide=HTML,CSS"/>    
-</div>
-
-
-
-
-
-<!--<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Changbaiqi" />
-</div> -->
+<p align="center">
+  <a href="mailto:changbaiqi@foxmail.com"><img src="https://img.shields.io/badge/Email-changbaiqi%40foxmail.com-blue?logo=gmail&logoColor=white" /></a>
+  <a href="https://blogs.changbaiqi.top"><img src="https://img.shields.io/badge/Blog-Blogs.changbaiqi.top-brightgreen?logo=wordpress" /></a>
+  <a href="https://github.com/Changbaiqi"><img src="https://img.shields.io/github/followers/Changbaiqi?label=GitHub%20Followers&style=social" /></a>
+</p>
 
 ---
 
-# About ME
+### 🧠 关于我
 
-👋 你好，我是 Changbaiqi，一名热爱技术的 全栈开发工程师。  
-💻 技术栈：Java / Go / Flutter / Vue  
-🚀 开源项目：Yatori课程助手（Star 250+）、恰啰校园  
-🧠 博客作者：撰写 120+ 篇技术文章（Java 后端方向）  
-📫 联系我：changbaiqi@foxmail.com | blogs.changbaiqi.top
+- 💻 **2 年全栈开发经验**，主导落地 2 个完整项目  
+- 🌟 开源项目 **Yatori课程助手** 累计 Star **250+**  
+- 🧩 撰写 **120+ 篇技术博客**，专注 Java 后端与分布式架构  
+- 🚀 擅长从 0 到 1 的系统设计与快速迭代  
+- 📚 热衷研究 **爬虫逆向、微服务、AI 自动化、Flutter 跨端开发**
 
-
----
-
-<!-- 一大堆LOGO. 以及与之相关的超链接 -->
-<!--https://github.com/marwin1991/profile-technology-icons-->
-
-
-
-<div align="center">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
- <a href="https://github.com/ForteScarlet">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
- </a> 
- <a href="https://www.jetbrains.com/?from=simpler-robot">
-	 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" />
- </a>
-	<a href="https://www.jetbrains.com/?from=simpler-robot">
-	 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" />
-	</a>
- <a href="https://www.sublimetext.com/">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text" />
- </a>
- <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
- <a href="https://cn.vuejs.org/">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js" />
- </a> 
- <a href="https://www.java.com/">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
- </a>
- <a href="https://spring.io/">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" />
- </a>
- <a href="https://maven.apache.org/">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" />
-  </a>
- <a href="https://gradle.org/">
- <img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/gradle.svg" title="Gradle" />
-	</a>
- <a href="https://hibernate.org/">
- <img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate" />
-	</a>
- <img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit" />
- <a href="https://projectlombok.org/">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok" />
- </a>
- <a href="https://kotlinlang.org/">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin" />
- </a>
-<a href="https://www.mysql.com/">
- <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
-</a>
-<a href="https://redis.io/"> 
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis" />
-</a>
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
-</div>
-
-<p align="center"><a href="https://github.com/Changbaiqi">
-    <img src="https://github-profile-trophy.vercel.app/?username=Changbaiqi&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
-  </a></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Changbaiqi/Changbaiqi/output/snk/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Changbaiqi/Changbaiqi/output/snk/github-snake.svg">
-  <img align="center" src="https://raw.githubusercontent.com/Changbaiqi/Changbaiqi/output/snk/github-snake.svg" alt="Snk" />
-</picture>
-
+> “代码不仅是指令，更是逻辑、思维与创造力的结晶。”
 
 ---
 
+### ⚙️ 技术栈与工具
 
+#### 💬 编程语言
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
+![Go](https://img.shields.io/badge/Go-blue?logo=go)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
+![Bash](https://img.shields.io/badge/Shell-121011?logo=gnu-bash)
 
-<!--
-**Changbaiqi/Changbaiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🧩 后端框架
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
+![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F?logo=spring)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?logo=databricks)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
-Here are some ideas to get you started:
+#### 🎨 前端 & 移动端
+![Vue2](https://img.shields.io/badge/Vue2-4FC08D?logo=vue.js)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧰 工具与平台
+![APIfox](https://img.shields.io/badge/APIfox-FF6A00?logo=swagger)
+![Navicat](https://img.shields.io/badge/Navicat-13B5EC?logo=databricks)
+![Frida](https://img.shields.io/badge/Frida-FF5733)
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-FF6A00?logo=alibabacloud)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch)
+
+---
+
+### 🚀 开源项目
+
+#### 🧠 [Yatori课程助手](https://github.com/Changbaiqi/YatoriCourseHelper)
+> 🎓 面向大学生网课平台的智能自动化助手（开源项目，Star 250+）
+
+- 使用 **Frida** 逆向多个混淆加密接口  
+- 采用 **Go 语言** 重构核心模块，内存占用降低 50%  
+- 接入 **AI 大模型 SDK** 实现自动答疑功能  
+- 使用 **YOLO** 实现验证码识别
+
+#### 📱 恰啰校园（Ciallo Campus）
+> 校园一体化生活服务平台（SpringCloud + Flutter）
+
+- 基于 **SpringCloud + Eureka** 构建微服务架构（5W+ 日请求）  
+- 采用 **Redis 黑名单机制 + 限流算法** 提升系统稳定性  
+- 前端使用 **Flutter + GetX** 实现跨平台应用  
+- 接入 **华为扫码 SDK** 与 **高德地图 SDK**  
+- 实现 **WebSocket 实时聊天系统** 与历史记录持久化  
+
+---
+
+### 📊 GitHub 数据展示
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Changbaiqi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Changbaiqi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Changbaiqi&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🌐 联系我
+
+📧 **Email**：changbaiqi@foxmail.com  
+📰 **Blog**：[https://blogs.changbaiqi.top](https://blogs.changbaiqi.top)  
+💻 **GitHub**：[https://github.com/Changbaiqi](https://github.com/Changbaiqi)
+
+---
+
+⭐️ 如果你喜欢我的项目，欢迎 **Star / Follow** 支持一下！
