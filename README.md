@@ -69,7 +69,7 @@
 #### 📱 恰啰校园（Ciallo Campus）
 > 校园一体化生活服务平台（SpringCloud + Flutter）
 
-- 基于 **SpringCloud + Eureka** 构建微服务架构（5W+ 日请求）  
+- 基于 **SpringCloud + Eureka** 构建微服务架构（1K+ 日请求）  
 - 采用 **Redis 黑名单机制 + 限流算法** 提升系统稳定性  
 - 前端使用 **Flutter + GetX** 实现跨平台应用  
 - 接入 **华为扫码 SDK** 与 **高德地图 SDK**  

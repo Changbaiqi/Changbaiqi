@@ -69,7 +69,7 @@
 #### 📱 Ciallo Campus（恰啰キャンパス）
 > キャンパス統合型ライフサービスプラットフォーム（SpringCloud + Flutter）
 
-- **SpringCloud + Eureka** によるマイクロサービスアーキテクチャを構築（1 日 5 万件以上のリクエスト）  
+- **SpringCloud + Eureka** によるマイクロサービスアーキテクチャを構築（1 日 0.1 万件以上のリクエスト）  
 - **Redis ブラックリスト機構 + レート制限アルゴリズム** によりシステム安定性を強化  
 - **Flutter + GetX** によるクロスプラットフォームアプリを開発  
 - **Huawei Scan Kit** と **Amap SDK（高徳地図）** を統合  

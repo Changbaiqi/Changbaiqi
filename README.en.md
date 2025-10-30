@@ -69,7 +69,7 @@
 #### 📱 Ciallo Campus
 > A unified campus life service platform (SpringCloud + Flutter)
 
-- Built a **microservice architecture** with **SpringCloud + Eureka** (50K+ daily requests)  
+- Built a **microservice architecture** with **SpringCloud + Eureka** (1K+ daily requests)  
 - Enhanced stability with **Redis blacklist mechanism + rate-limiting algorithms**  
 - Developed **cross-platform frontends** using **Flutter + GetX**  
 - Integrated **Huawei Scan Kit** and **Amap SDK**  
