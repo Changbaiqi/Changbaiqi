@@ -17,7 +17,7 @@
 ### 🧠 About Me
 
 - 💻 **2 years of full-stack development experience**, leading the delivery of 2 complete projects  
-- 🌟 Open-source project **Yatori Course Assistant** has gained over **250+ Stars**  
+- 🌟 Open-source project **Yatori Course Assistant** has gained over **300+ Stars**  
 - 🧩 Written **120+ technical blogs**, focusing on Java backend and distributed systems  
 - 🚀 Skilled in **system design and rapid iteration from 0 to 1**  
 - 📚 Enthusiastic about **reverse engineering, microservices, AI automation, and cross-platform Flutter development**
