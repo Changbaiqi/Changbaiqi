@@ -59,7 +59,7 @@
 ### 🚀 Open-Source Projects
 
 #### 🧠 [Yatori Course Assistant](https://github.com/yatori-dev)
-> 🎓 An intelligent automation assistant for university online-learning platforms (open source, 250+ Stars)
+> 🎓 An intelligent automation assistant for university online-learning platforms (open source, 300+ Stars)
 
 - Reverse-engineered multiple obfuscated and encrypted APIs using **Frida**  
 - Rebuilt the core module in **Go**, reducing memory usage by 50%  
